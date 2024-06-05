@@ -1,0 +1,7 @@
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\Guia5\Guia5_Funciones\Guia5_Funciones\bin\Debug\Guia5_Funciones.exe.config
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\Guia5\Guia5_Funciones\Guia5_Funciones\bin\Debug\Guia5_Funciones.exe
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\Guia5\Guia5_Funciones\Guia5_Funciones\bin\Debug\Guia5_Funciones.pdb
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\Guia5\Guia5_Funciones\Guia5_Funciones\obj\Debug\Guia5_Funciones.csproj.AssemblyReference.cache
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\Guia5\Guia5_Funciones\Guia5_Funciones\obj\Debug\Guia5_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\Guia5\Guia5_Funciones\Guia5_Funciones\obj\Debug\Guia5_Funciones.exe
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\Guia5\Guia5_Funciones\Guia5_Funciones\obj\Debug\Guia5_Funciones.pdb

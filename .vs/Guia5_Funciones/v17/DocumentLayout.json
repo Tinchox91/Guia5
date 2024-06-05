@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tinch\\OneDrive\\Documentos\\IDRA\\PROGRAMACION\\TP\\Guia5\\Guia5_Funciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A291D59F-371F-4770-84D9-E097AE2FD722}|Guia5_Funciones\\Guia5_Funciones.csproj|c:\\users\\tinch\\onedrive\\documentos\\idra\\programacion\\tp\\guia5\\guia5_funciones\\guia5_funciones\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A291D59F-371F-4770-84D9-E097AE2FD722}|Guia5_Funciones\\Guia5_Funciones.csproj|solutionrelative:guia5_funciones\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A291D59F-371F-4770-84D9-E097AE2FD722}|Guia5_Funciones\\Guia5_Funciones.csproj|c:\\users\\tinch\\onedrive\\documentos\\idra\\programacion\\tp\\guia5\\guia5_funciones\\guia5_funciones\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A291D59F-371F-4770-84D9-E097AE2FD722}|Guia5_Funciones\\Guia5_Funciones.csproj|solutionrelative:guia5_funciones\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\tinch\\OneDrive\\Documentos\\IDRA\\PROGRAMACION\\TP\\Guia5\\Guia5_Funciones\\Guia5_Funciones\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Guia5_Funciones\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\tinch\\OneDrive\\Documentos\\IDRA\\PROGRAMACION\\TP\\Guia5\\Guia5_Funciones\\Guia5_Funciones\\Ejercicio1.cs",
+              "RelativeToolTip": "Guia5_Funciones\\Ejercicio1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:12:28.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\tinch\\OneDrive\\Documentos\\IDRA\\PROGRAMACION\\TP\\Guia5\\Guia5_Funciones\\Guia5_Funciones\\Inicio.cs",
+              "RelativeDocumentMoniker": "Guia5_Funciones\\Inicio.cs",
+              "ToolTip": "C:\\Users\\tinch\\OneDrive\\Documentos\\IDRA\\PROGRAMACION\\TP\\Guia5\\Guia5_Funciones\\Guia5_Funciones\\Inicio.cs",
+              "RelativeToolTip": "Guia5_Funciones\\Inicio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:21:59.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
