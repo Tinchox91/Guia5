@@ -27,6 +27,7 @@ public void imprimirBienvenidaDatos()
             bienvenida();
             Console.WriteLine(nom);
             Console.WriteLine(edad);
+            Console.ReadKey();
         }
     }
 }

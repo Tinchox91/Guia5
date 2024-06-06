@@ -23,6 +23,9 @@ namespace Guia5_Funciones
         {
             Console.ForegroundColor= ConsoleColor.DarkGreen;
             Console.WriteLine($"Hola! {nom}");
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine("Oprima ENTER para terminar...");
+            Console.ReadKey();
         }
     }
 }

@@ -40,7 +40,7 @@ namespace Guia5_Funciones
                         case 8: Ejercicio8 ejercicio8 = new Ejercicio8();ejercicio8.mostrarResultados(); break;
                         case 0:break;
                     }
-                    Console.ReadKey();//para que no se cierre la app
+                  
                     Console.Clear();//que mejor cuando se resetea la pantalla
                 }
                 catch (Exception)

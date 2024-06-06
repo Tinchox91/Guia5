@@ -51,10 +51,10 @@ namespace Guia5_Funciones
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 switch (op)
                 {
-                    case 1:total = sumar(n1, n2); Console.WriteLine("Resultado: "+total);Console.ReadKey();  break;
-                    case 2: total = restar(n1, n2); Console.WriteLine("Resultado: " + total); Console.ReadKey(); break;
-                    case 3: total = multiplicar(n1, n2); Console.WriteLine("Resultado: " + total); Console.ReadKey(); break;
-                    case 4: total = dividir(n1, n2); Console.WriteLine("Resultado: " + total); Console.ReadKey(); break;
+                    case 1:total = sumar(n1, n2); Console.WriteLine("Resultado: "+total); Console.WriteLine("Apreta ENTER para continuar..."); Console.ReadKey();  break;
+                    case 2: total = restar(n1, n2); Console.WriteLine("Resultado: " + total); Console.WriteLine("Apreta ENTER para continuar..."); Console.ReadKey(); break;
+                    case 3: total = multiplicar(n1, n2); Console.WriteLine("Resultado: " + total); Console.WriteLine("Apreta ENTER para continuar..."); Console.ReadKey(); break;
+                    case 4: total = dividir(n1, n2); Console.WriteLine("Resultado: " + total); Console.WriteLine("Apreta ENTER para continuar..."); Console.ReadKey(); break;
                 }
             } while (op!=0);
            
